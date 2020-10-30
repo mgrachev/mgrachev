@@ -5,7 +5,7 @@
 I'm:<br>
 * Senior Software Engineer (Rust, Go, Ruby) 🚀
 * DevOps Engineer 🐳
-* Open Source Activist 😍
+* Open Source Activist & Contributor 😍
 * [Speaker](https://www.mgrachev.com/speaks) 🎤
 
 I ❤️ Open Source:
