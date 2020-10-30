@@ -1,11 +1,11 @@
 ### 👋 Hi, I'm Mikhail!
 
-⬅️ I look something like this 🙂
+⬅️ I look something like this but with a beard 🧔
 
-I'm:
-* Backend Developer (Rust, Go, Ruby) 🚀
-* Team Leader 💪
+I'm:<br>
+* Senior Software Engineer (Rust, Go, Ruby) 🚀
 * DevOps Engineer 🐳
+* Open Source Activist 😍
 * [Speaker](https://www.mgrachev.com/speaks) 🎤
 
 I ❤️ Open Source:
