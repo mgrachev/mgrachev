@@ -7,6 +7,7 @@ I'm:<br>
 * DevOps Engineer 🐳
 * Open Source Activist & Contributor 😍
 * [Speaker](https://www.mgrachev.com/speaks) 🎤
+* [Mentor](https://dotenv-linter.github.io/#/mentorship) 👨‍💻
 
 I ❤️ Open Source:
 * Author of [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter). It's a ⚡️ fast linter for `.env` files. Written in Rust 🦀
