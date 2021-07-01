@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Mikhail!
 
 I'm:<br>
-* Senior Software Engineer (Rust, Go, Ruby) 🚀
+* Senior Software Engineer (Rust, Go, Ruby, Elixir) 🚀
 * DevOps Engineer 🐳
 * Open Source Activist & Contributor 😍
 * [Speaker](https://www.mgrachev.com/speaks) 🎤
