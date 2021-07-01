@@ -1,7 +1,5 @@
 ### 👋 Hi, I'm Mikhail!
 
-⬅️ I look something like this but with a beard 🧔
-
 I'm:<br>
 * Senior Software Engineer (Rust, Go, Ruby) 🚀
 * DevOps Engineer 🐳
